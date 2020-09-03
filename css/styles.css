@@ -1,0 +1,110 @@
+@media (max-width: 700px) {
+   #cat {
+      color: #f38c2b !important;
+      font-family: 'sacramento', cursive;
+      font-size: 5.5rem;
+      text-align: center;
+      padding-top: 5vh;
+   }
+}
+
+hr.style-two {
+   border: 0;
+   height: 1px;
+   background-image: linear-gradient(to right, #0e3b12, #fadcac, #0e3b12);
+}
+
+#nav-bar {
+   background-color: #0e3b12;
+}
+
+#yeah {
+   padding-top: 8vh;
+}
+
+#carouselExampleIndicators {
+   margin-top: 50px;
+}
+
+.product:hover {
+transform: scale(2);
+}
+
+nav {
+   font-family: 'Comfortaa', cursive;
+}
+
+#jp {
+   max-height: 50px;
+}
+
+#cat {
+   color: #0e3b12;
+   font-family: 'sacramento', cursive;
+   font-size: 5.5rem;
+   text-align: center;
+   padding-top: 5vh;
+}
+
+footer {
+   background-color: #0e3b12;
+   color: #fadcac;
+   font-family: 'Comfortaa', cursive;
+   padding-bottom: 10px;
+}
+
+.container-fluid {
+   padding: 3% 15%;
+}
+
+.vid {
+   padding: auto;
+}
+
+footer p {
+   text-align: center;
+}
+
+footer h4 {
+   text-align: center;
+   padding-top: 10px;
+}
+
+.f-input {
+   text-align: center;
+}
+
+#plant-care {
+   color: #0e3b12;
+   font-family: 'sacramento', cursive;
+   font-size: 8rem;
+   text-align: center;
+   padding-top: 5vh;
+}
+
+#about {
+   color: #0e3b12;
+   font-family: 'sacramento', cursive;
+   font-size: 8rem;
+   text-align: center;
+   padding-bottom: 60px;
+   margin-bottom: 100px;
+}
+
+.joann {
+   /* margin: 100px auto 100px auto; */
+   text-align: left;
+   line-height: 2;
+   font-size: 1rem;
+   font-family: 'Comfortaa', cursive;
+   margin-top: 40px;
+   
+}
+
+.jsmile {
+   border-radius: 50%;
+   width: 25%;
+   max-width: 300px;
+   float: left;
+   margin-right: 30px;
+}
